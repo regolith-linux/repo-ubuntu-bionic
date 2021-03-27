@@ -31,7 +31,9 @@ jobs:
       - name: Setup
         if: steps.changes.outputs.changed == 1
         run: |
-          [ -e ./init.sh ] && ./init.sh
+          if [ -f ./init.sh ]; then
+            ./init.sh
+          fi
           
       - name: Configure GPG Key
         if: steps.changes.outputs.changed == 1

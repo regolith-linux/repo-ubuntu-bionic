@@ -1,0 +1,7 @@
+Origin: regolith-linux.github.io/repo-ubuntu-bionic
+Label: Regolith Desktop Environment
+Codename: bionic
+Architectures: amd64 source
+Components: main
+Description: Regolith Packages for Ubuntu Bionic
+SignWith: 0F71F62C2C031233

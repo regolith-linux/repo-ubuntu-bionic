@@ -1,0 +1,4 @@
+[submodule "lib/creche"]
+	path = lib/creche
+	url = https://github.com/regolith-linux/regolith-creche.git
+	branch = release

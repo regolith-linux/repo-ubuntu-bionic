@@ -20,7 +20,7 @@ jobs:
       - name: Generate Manifest
         run: |
           [ -e ./manifest.txt ] && rm ./manifest.txt
-          ./lib/creche/build-manifest.sh ./model.json ./manifest-raw.txt /tmp/manifest
+          cat model.json | ./lib/creche/build-manifest.sh ./manifest-raw.txt /tmp/manifest
           sort ./manifest-raw.txt > ./manifest.txt
           rm ./manifest-raw.txt
       

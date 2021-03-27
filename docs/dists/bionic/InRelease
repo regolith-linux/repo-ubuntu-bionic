@@ -1,0 +1,45 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: regolith-linux.github.io/repo-ubuntu-bionic
+Label: Regolith Desktop Environment
+Codename: bionic
+Date: Sat, 27 Mar 2021 19:28:40 UTC
+Architectures: amd64
+Components: main
+Description: Regolith Packages for Ubuntu Bionic
+MD5Sum:
+ 1d35350c985a137c3f710ccefd86dcff 49375 main/binary-amd64/Packages
+ 28b6e098a6b3352c3c6827d3fad456ee 12800 main/binary-amd64/Packages.gz
+ 5cb36438932b6dcbc29f7364228363c2 173 main/binary-amd64/Release
+ 6f163df8a6cb5b2f70ed37fcdfaaf38b 41763 main/source/Sources
+ fde88d304e53003225b635a94f75464c 10652 main/source/Sources.gz
+ 58668ce9aa454d9aa81d8782b9f1bb48 174 main/source/Release
+SHA1:
+ 8221b17b0a60921aec019a26c0fa8051f2e00989 49375 main/binary-amd64/Packages
+ 3d22d02e94232af3b1035897f0f6406422de3103 12800 main/binary-amd64/Packages.gz
+ 009d7dade9b3767c1155d709ad51796760f66325 173 main/binary-amd64/Release
+ f756d1e4ebd244bcc5a6d774447ee5fda2dca17a 41763 main/source/Sources
+ a67e019bceef2cbca3a8635fbb4eb98f6c022aaf 10652 main/source/Sources.gz
+ 89a344b4489c83fe86af435c02817d14f6920bf0 174 main/source/Release
+SHA256:
+ 03c6ed95f72cf72c87bbbbbeb4994e7bb76b415bf37e3378796d7dde800f130d 49375 main/binary-amd64/Packages
+ 5c1b65f4dd9c8ec4b7b56f6ecd0dcbc9a3b6414cc9cf5253be5c22a22ae2c8f0 12800 main/binary-amd64/Packages.gz
+ 8367231da3b8107374cd56e1ef0fe621d52da3ed6991963efab56c20bf2b609c 173 main/binary-amd64/Release
+ 4a224443d1ba5c2901130a6a9839b7055361b06a511942f16ee207fb719db3e3 41763 main/source/Sources
+ 366faa10082e32ffa2f73ed5a783a13e86258727549fce590d491aaa551d00ed 10652 main/source/Sources.gz
+ 6b5618051665e692baad0e26061af15275fc13e91329b9c88575fddb56b672ed 174 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEE7mv+n4vZgYAzmYmZD3H2LCwDEjMFAmBfh2gACgkQD3H2LCwD
+EjNSgAv/S7K4RUp/4WxqNFRYzKOGx1B6C2YOsOLMdwu5ZTn9a2I10YVYLXhiJtnr
+m9scqEUoDNdEIKLTtW9AIsbMJpUc1m1tmiNddS4rICazwKEQuAr9WrrO7BWvJ0Hb
+TJqdu1fd0rnrbe/29xdqXlOEYTAfJHM26kgyEseFLGga6LxunDqJ/T81O+tlizDm
+CRcoe3Dr3sXE+jUjoJpATOTsBgi5OQHDDWoicLC7YwGv8gtpYnNrE/miMSop8Mxz
+rJyxKmebEldDENe0tUtVL5A6RS4DN1nB/VjLBC3DlT+RDQNdi8EfAjuGv0T4eySs
+w83oezyXITuiu6t9Hy48ciIpgknc/F7IeCUPXoTBu2lItXqzWgSNlz8S1tSKBUxA
+W4FCXdKnVGWyuXxfiiIEJBrrRD1dAoxgClPTLEcNPe9tStGWJ+5Pise9ks+useJo
+MTK8xMVTAO5Lkc9B6mL2/a6zHEkq2j7idCuIr4w7Lc5ckzxwcBhIU0Fr0e0XP+TV
+hFN49wKE
+=c0rb
+-----END PGP SIGNATURE-----

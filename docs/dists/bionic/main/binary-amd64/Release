@@ -1,0 +1,5 @@
+Component: main
+Origin: regolith-linux.github.io/repo-ubuntu-bionic
+Label: Regolith Desktop Environment
+Architecture: amd64
+Description: Regolith Packages for Ubuntu Bionic

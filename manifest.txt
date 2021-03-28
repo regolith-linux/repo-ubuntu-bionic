@@ -10,7 +10,7 @@ regolith-compositor-compton-glx master eebe813
 regolith-compositor-none master 2391653
 regolith-compositor-picom-glx master d80e083
 regolith-compositor-xcompmgr master c17985c
-regolith-default-settings ubuntu/bionic-2.0-dev 1da0854
+regolith-default-settings ubuntu/bionic-2.0-dev d9d9b1d
 regolith-desktop ubuntu/focal-i3cp 6efbe16
 regolith-ftue i3cp fc3e9ac
 regolith-i3-config master 2a184a7

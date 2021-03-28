@@ -738,7 +738,7 @@ Description: Regolith configuration for Xcompmgr
  A compositor init that uses xcompmgr.
 
 Package: regolith-default-settings
-Version: 2.0.1-1focal-1regolith-1616873081
+Version: 2.0.2-1bionic1-1regolith-1616957332
 Architecture: amd64
 Maintainer: Regolith Linux <regolith.linux@gmail.com>
 Installed-Size: 16
@@ -746,11 +746,11 @@ Depends: dconf-gsettings-backend | gsettings-backend, adwaita-icon-theme, ayu-th
 Breaks: regolith-gnome-flashback (<< 2.5.0)
 Priority: optional
 Section: x11
-Filename: pool/main/r/regolith-default-settings/regolith-default-settings_2.0.1-1focal-1regolith-1616873081_amd64.deb
-Size: 2780
-SHA256: 8040b7a7c5627724adf639e04901819e33db86f9afadda9000c7103036f41b18
-SHA1: 9f643a9c0a9dd47c7f932a6ba7f609627acd3ca8
-MD5sum: 97fed8f36765bc4e7856b931e17b950f
+Filename: pool/main/r/regolith-default-settings/regolith-default-settings_2.0.2-1bionic1-1regolith-1616957332_amd64.deb
+Size: 2888
+SHA256: 280388797843ad3ed7ca2470cd1d38ee50600a11b486d13a1235fb1ae2199bac
+SHA1: a8f9a8e900954b1988714316ec5459b44d1d1cb6
+MD5sum: 9efd0a1c31229094473f7f8d12f80916
 Description: Regolith default settings
 
 Package: regolith-desktop-core

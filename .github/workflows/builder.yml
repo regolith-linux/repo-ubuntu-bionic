@@ -70,6 +70,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add ./docs/*
           git add ./manifest.txt
+          git status
           git commit -am "Automated repo update"
           
       - name: Push Changes
